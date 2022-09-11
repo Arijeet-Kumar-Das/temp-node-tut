@@ -1,0 +1,16 @@
+Browser             |       Node.js
+                    |    
+DOM                 |       No DOM
+Window              |       No Window
+Interactive Apps    |       Server side Apps
+No Filesystem       |       Filesystem
+Fragmentation       |       Versions
+ES6 Modules         |       Common js      
+
+
+Built-in Modules
+
+OS
+Path 
+FS 
+HTTP
